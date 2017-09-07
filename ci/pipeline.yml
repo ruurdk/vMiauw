@@ -2,7 +2,7 @@ resources:
 - name: vMiauw
   type: git
   source:
-    uri: https://github.com/vChrisR/vMiauw.git
+    uri: https://github.com/ruurdk/vMiauw.git
 - name: cf-deploy-vMiauw
   type: cf
   source:
